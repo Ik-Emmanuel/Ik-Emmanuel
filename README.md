@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ikechukwu Emmanuel. 
+- 👋 Hi, I’m Emmanuel Ikechukwu Nwokocha. 
 - Website: emmanuel-n-vercel.app
 - Interested in Fullstack Python and React Software Development.
 -  I’m looking to collaborate on custom Python solutions and React/Nextjs web development projects
